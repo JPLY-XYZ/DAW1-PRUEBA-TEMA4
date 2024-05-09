@@ -17,5 +17,5 @@
 ![Ejercicio 5](screenshots/5.png)
 ## EJERCICIO 6
 ![Ejercicio 6](screenshots/6.png)
+![Ejercicio 6 imagen 2](screenshots/6.1.png)
 ## EJERCICIO 7
-![Ejercicio 7](screenshots/1.png)
